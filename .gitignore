@@ -17,6 +17,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Java classes and implementation
+*.class
+*.jar
+*.war
+*.log
+
 # =========================
 # Operating System Files
 # =========================
